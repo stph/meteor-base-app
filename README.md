@@ -1,4 +1,4 @@
 meteor-base-app
 ===============
 
-a base app on meteor
+A base app on meteor
